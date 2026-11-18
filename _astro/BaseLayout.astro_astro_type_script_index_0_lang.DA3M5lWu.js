@@ -1,0 +1,1 @@
+import{c as e,r as t,t as n}from"./analytics.DV54KjXj.js";t(location.search,e()),document.addEventListener(`click`,e=>{let t=e.target instanceof Element&&e.target.closest(`[data-analytics]`);t&&n(`cta_click`,{name:t.dataset.analytics})});

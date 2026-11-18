@@ -1,0 +1,369 @@
+# Paytm Ads: full site content
+
+> Paytm Ads is the advertising business of Paytm (One97 Communications Ltd). It is a full-stack advertising network powered by purchase intelligence, built from what people pay for on Paytm. It runs ads in the Paytm app, on Paytm Soundboxes at shop counters, and beyond Paytm on partner publishers, social and search, streaming and connected TV, and the open web through DSPs. Branding builds reach with display, video and audio. Performance drives sales with deals formats, partner publishers and retargeting.
+
+This is the full text of https://amritansh-ashesh-ptm.github.io/ as Markdown, generated from the same content as its pages. Figures are as of Q1 FY’27 (quarter ending June 2026) unless another period is stated. Numbers in [brackets] refer to the Sources list at the end. Content updated 2026-11-18.
+
+## Paytm Ads
+
+URL: https://amritansh-ashesh-ptm.github.io/
+
+How Paytm Ads works as a full-stack advertising network that targets people by what they pay for, then Paytm’s scale, the brands that advertise and their awards.
+
+### Purchase intelligence
+
+Purchase intelligence is the audience signal Paytm Ads builds from what people pay for across Paytm’s businesses and how they use the Paytm app. It rests on verified records of spend, where most platforms can only infer intent.
+
+### What the evidence shows about media planning in India
+
+- Digital ads aimed at 18+ users in India that reach the wrong audience: 1 in 3 [6]
+- Higher engagement when money moves than on an everyday screen: 5x [7]
+- Offline shoppers who research online, then buy in-store: 1 in 2 [2]
+- Digital advertising planned on these assumptions in 2025: ~₹93,000 Cr [8]
+
+### Network scale
+
+- Registered users: more than 550 Mn (Q1 FY’27) [7]
+- Monthly active users: more than 110 Mn (Q1 FY’27) [7]
+- Monthly transacting users: more than 85 Mn [9]
+- Transactions a month: more than 20 Bn [10]
+- Registered merchants: more than 50 Mn [9]
+- Soundboxes at storefronts: more than 16 Mn [9]
+
+### Clients
+
+- Brands that have advertised with Paytm to date: more than 2,000 [7]
+- Brands that advertised with Paytm in FY’26, across 15+ categories: more than 500 (FY’26) [7]
+- FMCG: Ferrero, KFC, Nestlé, Unilever
+- E-commerce and retail: Amazon, Reliance Retail, Snitch
+- BFSI: Axis Max Life, LIC, SBI, Visa
+- Auto, durables and real estate: Apple, Castrol, DLF, Maruti Suzuki
+- Telecom, media and entertainment: Airtel, Netflix, Spotify, ZEE5
+- Travel and tourism: IndiGo, Marriott International, Taj
+- Education: Aakash, be10x, Coursera
+- Pharma and healthcare: Apollo Hospitals, GSK, Zydus
+- Government and public sector: Central Bureau of Communication, Reserve Bank of India, Information & Public Relations Department, Government of Uttar Pradesh
+
+### Awards
+
+- Industry awards, 2022–26: more than 40 [1]
+- Gold · New Product Launch (E-commerce), e4m Indian Marketing Awards South, 2026
+- Silver · Affiliate & Partner Marketing, Adtech & IAA Honours, 2026
+- Gold · Programmatic & Emerging Media (Retail Media Advertising), Adtech & IAA Honours, 2026
+- Gold · Excellence in Age-Related Marketing, e4m Indian Marketing Awards, 2025
+- Silver · Best Creative Campaign, e4m Real-Time Programmatic Advertising Awards, 2025
+- Bronze · Best Full-Funnel Strategy, e4m Indian Marketing Awards, 2024
+- Gold · Best Gaming Campaign, e4m Indian Marketing Awards, 2024
+- Bronze · Most Effective Retargeting Campaign, Adgully Datamatixx, 2023
+- Gold · Best Data-Driven User Acquisition, Adgully Datamatixx, 2023
+- Gold · Best Use of Data & Insights, Adgully Datamatixx, 2023
+- Silver · Mobile In-App Advertising, Adgully Datamatixx, 2023
+- Bronze · Use of Display, ET BrandEquity India DigiPlus, 2023
+- Gold · Use of In-App Advertising, ET BrandEquity India DigiPlus, 2023
+- Bronze · Use of Performance Marketing, ET BrandEquity India DigiPlus, 2023
+- Bronze · Best Use of Mobile (Beauty), e4m Maddies, 2023
+- Bronze · Promotion, e4m Maddies, 2023
+- Silver · Social Impact (Not for Profit), e4m Maddies, 2023
+- Gold · Brand Campaign (CPG), Adgully MOBEXX, 2023
+- Gold · In-App Advertising Campaign, Adgully MOBEXX, 2023
+- Gold · Most Innovative Mobile Campaign of the Year, Adgully MOBEXX, 2023
+- Silver · In-App Install Campaign, Adgully MOBEXX, 2023
+- Bronze · Location-Based Targeting, Adgully MOBEXX, 2023
+- Gold · Native Advertising Campaign, Adgully MOBEXX, 2023
+- Gold · Sales Promotion Campaign, Adgully MOBEXX, 2023
+- Silver · Mobile Advertising Excellence in Brand Campaign (Healthcare), Adgully MOBEXX, 2022
+- Gold · Mobile Advertising Excellence in Content Marketing, Adgully MOBEXX, 2022
+- Silver · Mobile Advertising Excellence in Brand Campaign, Adgully MOBEXX, 2022
+- Silver · Mobile Advertising Excellence in Native Advertising Campaign, Adgully MOBEXX, 2022
+- Gold · Mobile Advertising Excellence in CRM Campaign, Adgully MOBEXX, 2022
+- Silver · Mobile Advertising Excellence in Sales Promotion Campaign, Adgully MOBEXX, 2022
+- Bronze · Mobile Advertising Excellence in In-App Advertising Campaign, Adgully MOBEXX, 2022
+- Silver · Mobile Advertising Excellence in App Install Campaign, Adgully MOBEXX, 2022
+- Gold · Mobile Advertising Excellence in User Acquisition Campaign, Adgully MOBEXX, 2022
+- Gold · Best Use of In-App Advertising, ET BrandEquity India DigiPlus, 2022
+- Bronze · In-App Advertising, e4m Maddies, 2022
+- Silver · Promotion, e4m Maddies, 2022
+- Gold · Mobile In-App Install Advertising, Adgully Datamatixx, 2022
+- Silver · Best Use of Data and Insights, Adgully Datamatixx, 2022
+- Silver · Mobile In-App Install Advertising, Adgully Datamatixx, 2022
+- Silver · Mobile In-App Advertising, Adgully Datamatixx, 2022
+
+## Ecosystem
+
+URL: https://amritansh-ashesh-ptm.github.io/platforms
+
+The Paytm payments, financial services and commerce businesses behind Paytm Ads audiences, who Paytm’s users are by city tier, age, affluence and language, India’s spending tiers, and the cohorts you can build from spending and in-app behaviour.
+
+### Paytm businesses behind the data
+
+#### Payments: Where India shops, travels and spends
+
+- [Paytm UPI](https://paytm.com/): Pay anyone, at any shop, from a bank account.
+- [Paytm for Business](https://business.paytm.com/): Soundbox, QR and the app shops use to get paid.
+- [Paytm Payment Gateway](https://www.paytmpayments.com/payment-gateway): Online checkout for websites and apps.
+
+#### Financial services: How India borrows, invests and insures
+
+- [Paytm Money](https://www.paytmmoney.com/): Stocks, mutual funds and wealth.
+- [Consumer Loans](https://paytm.com/loans-credit-cards/personal-loan): Personal loans from partner lenders.
+- [Merchant Loans](https://paytm.com/loans-credit-cards/business-loan): Business loans repaid from daily sales.
+- [Paytm Insurance Broking](https://paytminsurance.co.in/): Health, life and motor cover.
+- [Credit Card](https://paytm.com/loans-credit-cards/credit-cards): Co-branded cards with partner banks.
+
+#### Commerce & marketing services: How India books trips, and how brands win customers
+
+- [Paytm Travel](https://tickets.paytm.com/): Flights, trains and buses, booked on Paytm.
+- [Paytm Ads](https://amritansh-ashesh-ptm.github.io/): A full-stack ad network that targets people by what they pay for.
+- [Pi by Paytm](https://pi.paytm.com/): AI agents for sales, service and operations.
+
+### Who Paytm’s users are
+
+Demographics of Paytm’s monthly transacting users:
+
+- Tier 1 cities: ~30% [5]
+- Tier 2 cities: ~30% [5]
+- Tier 3+ cities and towns: ~40% [5]
+- Gen Z: 20% [5]
+- Millennials: 64% [5]
+- NCCS A and B: 76% [4]
+- Prefer languages other than English or Hindi: 36% [4]
+- India’s pincodes with at least one Paytm transacting user: 97%+ [5]
+
+Layer these with spend, category, and behavioural signals to build your custom cohort.
+
+### India’s spending tiers
+
+- India 1 is the consuming class, the highest-spending tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include investments, credit card bills, and beauty and personal care.
+- India 2 is the aspirant class, the middle tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include discount shopping, electronics on EMI and digital subscriptions.
+- India 3 is the everyday spenders, the largest and lowest-spending tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include prepaid recharges, kirana groceries and small-ticket payments.
+
+Population of each tier, for all of India rather than Paytm users:
+
+- India 1: the consuming class, ~₹14 Lakh per person: ~140 Mn [3]
+- India 2: the aspirant class, ~₹3 Lakh per person: ~300 Mn [3]
+- India 3: the everyday spenders, ~₹1 Lakh per person: ~1 Bn [3]
+
+### Cohorts by category spend
+
+- BFSI: Credit card bill payers
+- Consumer electronics: High-value electronics buyers
+- FMCG: Beauty and personal care buyers
+- E-commerce and retail: Fashion and apparel shoppers
+- Travel and tourism: Frequent travellers (flights, trains, etc.)
+
+### Audience mix of monthly transacting users
+
+- Live beyond Tier 1 cities: 70% [4]
+- NCCS A and B: 76% [4]
+- Prefer languages other than English or Hindi: 36% [4]
+- Millennials or younger: 84% [4]
+
+Consented, aggregated cohorts; no personal data leaves Paytm.
+
+## Branding solutions
+
+URL: https://amritansh-ashesh-ptm.github.io/solutions/branding
+
+Display and video ads in the Paytm app along the payment journey, high-impact formats, and audio ads on Paytm Soundbox at the shop counter.
+
+### In-app placements, by moment in the payment journey
+
+- Impressions a day across display properties: more than 300 Mn [7]
+
+#### Journey start
+
+- **Ribbon**: Your logo sits on the home screen’s sticky top strip, alternating with Paytm UPI where every payment journey begins.
+
+#### Homepage
+
+- **Masthead**: Your banner sits at the top of the Paytm home screen, above the payment shortcuts people tap first.
+- **Homepage Banner**: Your banner runs on the first screen people see when they open Paytm.
+
+#### Mid-payment
+
+- **In-processing Banner**: Your brand fills the few seconds people watch the screen while a payment processes.
+
+#### After payment
+
+- **Post Transaction Screen**: Your ad appears the moment a payment completes, when attention peaks.
+- **Post Transaction Screen Takeover**: Your brand fills all the ad space below the receipt on the Post Transaction Screen, for a full day.
+- **Play-on-Pay**: Your video plays, fully viewable and non-intrusive, while the payment completes.
+
+#### High-impact formats
+
+- **Story Ads**: Your story sits at the top of the home screen, one tap from a full-screen view.
+- **Interstitials**: Your full-screen ad lands at a natural pause in the user’s journey.
+- **Rich Media & DCO**: Your ad comes alive with animation, interactivity and microsites, built to hold attention.
+
+### Paytm Soundbox
+
+Soundbox advertising is audio advertising that plays a brand message on the Paytm Soundbox, the speaker that announces payments at shop counters across India. Both the merchant and the customer hear it, and campaigns can target stores by category, geography and language.
+
+- Soundboxes at storefronts: more than 16 Mn [9]
+- Ad audibility, heard by the merchant and the customer: 100% [7]
+
+### Paytm audiences on other media
+
+Paytm cohorts, built from spending and in-app behaviour, run on social and search (Meta, Google), streaming (YouTube, JioHotstar, ZEE5 and more), connected TV and FAST (LG, Samsung, Xiaomi and more) and the open web through DSPs.
+
+Compliant with OpenRTB and OMID standards. Brand lift measured by Kantar.
+
+## Performance: Paytm Audience Network
+
+URL: https://amritansh-ashesh-ptm.github.io/solutions/performance
+
+The Paytm Audience Network turns intent into sales, on Paytm and across partner publishers, with deals formats such as Scratch Cards and Catalog Deals, and retargeting.
+
+### Paytm Audience Network
+
+Paytm Audience Network is the Paytm Ads performance network that finds high-intent shoppers by what they pay for and how they use Paytm, and converts them with deals, rewards and retargeting on Paytm and partner publishers. On partner publishers, advertisers get one team, one report and one bill.
+
+### Deals formats
+
+#### After payment
+
+- **Scratch Cards**: Your offer is revealed the moment a payment completes, built for redemption and repeat purchase.
+
+#### Cashback & Offers page
+
+- **Catalog Deals**: Your offers stay on show to active deal-seekers on the Cashback & Offers page, built to drive trial and first purchase.
+- **Gamified Solutions**: Your offer is the prize in mini-games such as Spin the Wheel, Jackpot and Smash & Win, built for high dwell time and launch buzz.
+
+#### Homepage
+
+- **Promoted Icons**: You get a sponsored spot in the home screen’s Promoted row, putting your app, site or offer one tap away.
+- On Paytm: Scratch Cards after a payment and Catalog Deals on the Cashback & Offers page.
+- Across the network: partner publishers, with brand-safe inventory at lower cost; one team, one report, one bill.
+- Supports standard third-party tags, verification, and measurement.
+
+### Retargeting
+
+Retargeting is advertising aimed at people who have already interacted with a brand, such as past buyers, app installers or cart abandoners. With Paytm Ads, an advertiser shares a customer list, Paytm matches it with Paytm users in a privacy-safe way, and those users see the ads across Paytm placements.
+
+Dynamic catalogue retargeting is retargeting that shows a shopper the exact product they viewed on an advertiser’s or partner’s app. On Paytm, a retargeting partner passes the product and user signal to Paytm, and the same product reappears in a banner or Scratch Card.
+
+## Resources
+
+URL: https://amritansh-ashesh-ptm.github.io/resources
+
+A glossary of the advertising terms used on this site, and sign-up for Paytm Ads updates by email.
+
+## Contact us
+
+URL: https://amritansh-ashesh-ptm.github.io/contact
+
+Tell Paytm Ads who you want to reach; a specialist comes back with a plan for your audience, and nothing runs until you approve it.
+
+- Email: ads.marketing@paytm.com
+- Contact form: https://amritansh-ashesh-ptm.github.io/contact
+- LinkedIn: https://www.linkedin.com/company/paytm-ads
+
+## Frequently asked questions
+
+### What is Paytm Ads?
+
+Paytm Ads is a full-stack advertising network powered by purchase intelligence, built from what people pay for on Paytm. It runs ads in the Paytm app, on Paytm Soundboxes at shop counters, and beyond Paytm on partner publishers, social and search, streaming and connected TV, and the open web through DSPs. Branding builds reach with display, video and audio. Performance drives sales with deals formats, partner publishers and retargeting.
+
+### What is purchase intelligence?
+
+Purchase intelligence is the audience signal Paytm Ads builds from what people pay for on Paytm and how they use the Paytm app. Paytm has more than 85 Mn monthly transacting users, who make more than 20 Bn transactions a month, and each payment is a verified record of spend. Paytm Ads uses these signals to choose who sees an ad, to show it at the moment people pay, and to measure results online and in stores. [9][10]
+
+### Who advertises on Paytm?
+
+To date, more than 2,000 brands have advertised with Paytm Ads, and more than 500 advertised in FY’26 alone. They come from FMCG, e-commerce and retail, BFSI, auto, durables and real estate, telecom, media and entertainment, travel and tourism, education, and pharma and healthcare. Government and public-sector bodies have also empanelled Paytm Ads. [7]
+
+### How do I start advertising on Paytm?
+
+To start advertising on Paytm, fill in the form at ads.paytm.com/contact or write to ads.marketing@paytm.com. Tell Paytm Ads who you want to reach and what you want to achieve. A specialist reads your brief and comes back with a plan for your audience, and nothing runs until you approve it.
+
+### What data are Paytm audiences built from?
+
+Paytm audiences are built from what people pay for and how they use the Paytm app. Paytm Ads draws on Paytm’s payments, financial services and commerce businesses, including Paytm UPI, Paytm for Business, Paytm Payment Gateway, Paytm Money, consumer and merchant loans, Paytm Insurance Broking, credit cards and Paytm Travel. Each cohort is made up of adult users who recently paid in a category through Paytm.
+
+### Is personal data shared with advertisers?
+
+No. Paytm Ads works with consented, aggregated cohorts, and no personal data leaves Paytm. Advertisers choose audiences such as credit card bill payers or frequent travellers, and Paytm Ads reaches them on Paytm placements or on partner media. If you share your own customer list for retargeting, Paytm matches it with Paytm users in a privacy-safe way, and the matched users are reached without their personal data leaving Paytm.
+
+### Which audiences can I reach with Paytm Ads?
+
+Paytm Ads lets you reach cohorts built from real payments, such as credit card bill payers, high-value electronics buyers, beauty and personal care buyers, fashion and apparel shoppers and frequent travellers. You can add in-app behaviour to build your own. Among Paytm’s monthly transacting users, 70% live beyond Tier 1 cities, 76% are NCCS A and B, and 84% are millennials or younger. [4]
+
+### How many people can Paytm Ads reach?
+
+Paytm has more than 550 Mn registered users. In the app, Paytm Ads reaches more than 110 Mn monthly active users and more than 85 Mn monthly transacting users, who make more than 20 Bn transactions a month. In stores, Paytm has more than 50 Mn registered merchants and more than 16 Mn Soundboxes, which play audio ads to shoppers as they pay. Paytm Ads also runs the same cohorts on social, streaming and connected TV. [7][9][10]
+
+### Does Paytm Ads reach people beyond India’s big cities?
+
+Yes. Paytm Ads reaches consumers across India, not only in the metros. Among Paytm’s monthly transacting users, ~30% live in Tier 1 cities, ~30% in Tier 2 cities and ~40% in Tier 3+ cities and towns, and 36% prefer a language other than English or Hindi. Paytm has at least one transacting user in 97%+ of India’s pincodes, so a campaign can reach small towns as well as large ones. [5][4]
+
+### What ad formats are available in the Paytm app?
+
+Paytm Ads runs display, video and deals formats along the Paytm payment journey. Branding formats are the Ribbon, Masthead, Homepage Banner, In-processing Banner, Post Transaction Screen, Post Transaction Screen Takeover and Play-on-Pay video, plus Story Ads, Interstitials and Rich Media & DCO. Performance formats are Scratch Cards, Catalog Deals, Promoted Icons and gamified solutions such as Spin the Wheel, Jackpot and Smash & Win.
+
+### What is Soundbox advertising?
+
+Soundbox advertising is audio advertising from Paytm Ads that plays your brand message on the Paytm Soundbox, the speaker that announces payments at shop counters across India. With more than 16 Mn Soundboxes at storefronts, it reaches shoppers as they pay, with 100% ad audibility for the merchant and the customer. You choose the stores by category, geography and language. [9][7]
+
+### What is the Post Transaction Screen?
+
+The Post Transaction Screen is the screen the Paytm app shows the moment a payment completes, and Paytm Ads runs ads on it. It reaches people when their attention peaks. A Post Transaction Screen Takeover gives one brand all the ad space below the receipt for a full day.
+
+### Can I use Paytm audiences on YouTube or CTV?
+
+Yes. Paytm Ads runs Paytm cohorts on social and search (Meta, Google), streaming (YouTube, JioHotstar, ZEE5 and more), connected TV and FAST (LG, Samsung, Xiaomi and more) and the open web through DSPs. The cohorts are built from spending and in-app behaviour, and Kantar measures brand lift.
+
+### How does the Paytm Audience Network work?
+
+The Paytm Audience Network is the performance network of Paytm Ads. It finds high-intent shoppers by what they pay for and how they use the Paytm app, reaches them on Paytm and on partner publishers, and turns that intent into sales with deals formats such as Scratch Cards, rewards and retargeting. Partner publishers add brand-safe inventory at lower cost, with one team, one report and one bill.
+
+### How do Scratch Card ads work?
+
+Scratch Card ads on Paytm reveal your offer the moment a payment completes. A Paytm user pays, wins a Scratch Card, scratches it to see your offer, redeems it and lands on your app or website. Paytm Ads builds Scratch Cards for redemption and repeat purchase, and pairs them with Catalog Deals on the Cashback & Offers page, where shoppers go looking for offers.
+
+### Can I retarget my own customers on Paytm?
+
+Yes. With Paytm Ads audience retargeting, you share your customer list, Paytm matches it with Paytm users in a privacy-safe way, and those users see your ads across Paytm placements. You can re-engage app installers, lapsed buyers, cart abandoners, wishlisters and product viewers. Dynamic catalogue retargeting shows shoppers the exact product they viewed on another app, in a banner or Scratch Card.
+
+### How much does it cost to advertise on Paytm?
+
+The cost of advertising on Paytm depends on the format, the audience and how long the campaign runs, so Paytm Ads plans each budget around your brief. Tell us who you want to reach and what you want to achieve through the form at ads.paytm.com/contact, and a specialist will come back with a plan for your audience. Nothing runs until you approve it.
+
+### What happens after I contact Paytm Ads?
+
+After you contact Paytm Ads, the team reads your brief and the goals you picked, and a specialist comes back with a plan for your audience. You approve the plan before anything runs. It helps to share your company, your goals, such as brand awareness, sales or reaching shoppers in stores, and a budget range if you have one.
+
+### Can agencies work with Paytm Ads?
+
+Yes. Brands and agencies both work with Paytm Ads. Agencies can brief Paytm Ads through the contact form or at ads.marketing@paytm.com, and a specialist comes back with a plan. Paytm cohorts also run on the media agencies already plan, including social, streaming, connected TV and the open web.
+
+## Glossary
+
+- **AOV**: AOV (average order value) is the average amount a shopper spends in one order. Paytm deals formats aim to grow it by encouraging shoppers to add more to their cart.
+- **Commerce media**: Commerce media is advertising that uses a commerce or payments company’s first-party data to choose audiences and measure results, on the company’s own platforms or on other media. Paytm Ads is a commerce media business built on what people pay for on Paytm and how they use the Paytm app.
+- **Dynamic catalogue retargeting**: Dynamic catalogue retargeting is retargeting that shows a shopper the exact product they viewed on an advertiser’s or partner’s app. On Paytm, a retargeting partner passes the product and user signal to Paytm, and the same product reappears in a banner or Scratch Card.
+- **India 1**: India 1 is the consuming class, the highest-spending tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include investments, credit card bills, and beauty and personal care.
+- **India 2**: India 2 is the aspirant class, the middle tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include discount shopping, electronics on EMI and digital subscriptions.
+- **India 3**: India 3 is the everyday spenders, the largest and lowest-spending tier in Blume Ventures’ Indus Valley Report segmentation of India by spending power. Its signature spends include prepaid recharges, kirana groceries and small-ticket payments.
+- **MAU**: MAU (monthly active users) is the number of people who open the Paytm app in a month, whether or not they pay. It measures the reach of in-app placements, while MTU measures the people behind Paytm’s purchase signal.
+- **MTU**: MTU (monthly transacting users) is the number of people who make at least one payment on Paytm in a month. Paytm reports it in its investor disclosures, and it is a stricter measure than MAU because every MTU has paid, where an MAU may only have opened the app.
+- **NCCS**: NCCS (New Consumer Classification System) is the Indian market-research standard that grades households by the education of the chief earner and the consumer durables they own, from A, the most affluent, to E. Advertisers use NCCS A and B as shorthand for India’s higher-spending households.
+- **Paytm Audience Network**: Paytm Audience Network is the Paytm Ads performance network that finds high-intent shoppers by what they pay for and how they use Paytm, and converts them with deals, rewards and retargeting on Paytm and partner publishers. On partner publishers, advertisers get one team, one report and one bill.
+- **Play-on-Pay**: Play-on-Pay is a Paytm video ad format that plays a brand’s video, fully viewable and non-intrusive, while a payment completes in the Paytm app.
+- **Post Transaction Screen**: Post Transaction Screen is the screen the Paytm app shows the moment a payment completes, when the user’s attention peaks. Ads on it reach people right after they pay, and a Post Transaction Screen Takeover gives one brand all the ad space below the receipt for a full day.
+- **Purchase intelligence**: Purchase intelligence is the audience signal Paytm Ads builds from what people pay for across Paytm’s businesses and how they use the Paytm app. It rests on verified records of spend, where most platforms can only infer intent.
+- **Retargeting**: Retargeting is advertising aimed at people who have already interacted with a brand, such as past buyers, app installers or cart abandoners. With Paytm Ads, an advertiser shares a customer list, Paytm matches it with Paytm users in a privacy-safe way, and those users see the ads across Paytm placements.
+- **ROAS**: ROAS (return on ad spend) is the revenue a campaign earns for each rupee spent on its ads. Paytm deals formats aim to lift it by reaching shoppers who are already in buying mode.
+- **Soundbox advertising**: Soundbox advertising is audio advertising that plays a brand message on the Paytm Soundbox, the speaker that announces payments at shop counters across India. Both the merchant and the customer hear it, and campaigns can target stores by category, geography and language.
+
+## Sources
+
+1. Adgully, e4m, ET BrandEquity and Adtech & IAA Honours award listings, 2022–26.
+2. BCG, “$300 Billion Connected Commerce” (February 2026); Buzz to Bucks survey, N=12,000 Indian shoppers.
+3. Blume Ventures, Indus Valley Report 2025; population and per-capita income are for all of India, not Paytm users; converted at ₹95 per US dollar.
+4. Paytm platform data, Q1 FY’27. Audience percentages are based on monthly transacting users.
+5. Paytm internal data, Q1 FY’27. Audience percentages based on monthly transacting users; pincode coverage is the share of India’s pincodes with at least one transacting user.
+6. Nielsen, “Making Digital Advertising Add Up in India,” Digital Ad Ratings (2020); inverse of 63% on-target rate.
+7. Paytm platform data.
+8. Pitch Madison Advertising Report (PMAR) 2026.
+9. Paytm investor disclosures, Q1 FY’27 (quarter ending June 2026).
+10. Paytm Q1 FY’27 earnings call.

@@ -1,0 +1,33 @@
+# Paytm Ads
+
+> Paytm Ads is the advertising business of Paytm (One97 Communications Ltd). It is a full-stack advertising network powered by purchase intelligence, built from what people pay for on Paytm. It runs ads in the Paytm app, on Paytm Soundboxes at shop counters, and beyond Paytm on partner publishers, social and search, streaming and connected TV, and the open web through DSPs. Branding builds reach with display, video and audio. Performance drives sales with deals formats, partner publishers and retargeting.
+
+Figures are as of Q1 FY’27 unless another period is stated. Content updated 2026-11-18.
+
+## Pages
+
+- [Paytm Ads](https://amritansh-ashesh-ptm.github.io/): How Paytm Ads works as a full-stack advertising network that targets people by what they pay for, then Paytm’s scale, the brands that advertise and their awards.
+- [Ecosystem](https://amritansh-ashesh-ptm.github.io/platforms): The Paytm payments, financial services and commerce businesses behind Paytm Ads audiences, who Paytm’s users are by city tier, age, affluence and language, India’s spending tiers, and the cohorts you can build from spending and in-app behaviour.
+- [Branding solutions](https://amritansh-ashesh-ptm.github.io/solutions/branding): Display and video ads in the Paytm app along the payment journey, high-impact formats, and audio ads on Paytm Soundbox at the shop counter.
+- [Performance: Paytm Audience Network](https://amritansh-ashesh-ptm.github.io/solutions/performance): The Paytm Audience Network turns intent into sales, on Paytm and across partner publishers, with deals formats such as Scratch Cards and Catalog Deals, and retargeting.
+- [Resources](https://amritansh-ashesh-ptm.github.io/resources): A glossary of the advertising terms used on this site, and sign-up for Paytm Ads updates by email.
+- [Contact us](https://amritansh-ashesh-ptm.github.io/contact): Tell Paytm Ads who you want to reach; a specialist comes back with a plan for your audience, and nothing runs until you approve it.
+- [Full site content](https://amritansh-ashesh-ptm.github.io/llms-full.txt): Every page, placement, figure, FAQ and glossary term as one Markdown file, with sources.
+
+## Key facts
+
+- Registered users: more than 550 Mn. Source: Paytm platform data, Q1 FY’27.
+- Monthly active users: more than 110 Mn. Source: Paytm platform data, Q1 FY’27.
+- Monthly transacting users: more than 85 Mn. Source: Paytm investor disclosures, Q1 FY’27 (quarter ending June 2026).
+- Registered merchants: more than 50 Mn. Source: Paytm investor disclosures, Q1 FY’27 (quarter ending June 2026).
+- Soundboxes at storefronts: more than 16 Mn. Source: Paytm investor disclosures, Q1 FY’27 (quarter ending June 2026).
+- Transactions a month: more than 20 Bn. Source: Paytm Q1 FY’27 earnings call.
+- Brands that have advertised with Paytm to date: more than 2,000. Source: Paytm platform data.
+- Brands that advertised with Paytm in FY’26, across 15+ categories: more than 500. Source: Paytm platform data, FY’26.
+- Impressions a day across display properties: more than 300 Mn. Source: Paytm platform data.
+
+## Contact
+
+- Email: ads.marketing@paytm.com
+- [Contact form](https://amritansh-ashesh-ptm.github.io/contact): Tell Paytm Ads who you want to reach; a specialist comes back with a plan for your audience, and nothing runs until you approve it.
+- [LinkedIn](https://www.linkedin.com/company/paytm-ads)
